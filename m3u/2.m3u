@@ -1,27 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,vevo hits
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,Vevo TV
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,Vevo Hip Hop
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,Vevo Country Music
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Capital TV
-http://llnw.live.simplestream.com/coder7/coder.channels.channel8/hls/3/playlist.m3u8
 #EXTINF:-1,Magic
 http://csm-e.tm.yospace.com/csm/live/78581293.m3u8
 #EXTINF:-1,NOW MUSIC
-http://ngx.cr2.streamzilla.xlcdn.com/session/0d207825363981829662acae35badee6/sz/AATW/wowza4/live/nowmusic/playlist.m3u8?token=7irbbCqHkQbesivfM8UlBw&time=1430155189
-#EXTINF:-1,NOW MUSIC
-http://llnw.live.simplestream.com/coder6/coder.channels.channel5/hls/3/playlist.m3u8
-#EXTINF:-1,NOW MUSIC b
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Clubbing TV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,Clubland
-http://llnw.live.simplestream.com/coder2/coder.channels.channel11/hls/3/playlist.m3u8
 #EXTINF:-1,The Box
 http://csm-e.tm.yospace.com/csm/live/78581259.m3u8
 #EXTINF:-1,4 Music
@@ -32,51 +22,28 @@ http://csm-e.tm.yospace.com/csm/live/78581152.m3u8
 http://csm-e.tm.yospace.com/csm/live/78581208.m3u8
 #EXTINF:-1,Channel AKA
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1,KRALPOP
-http://nimlive1.giniko.com/kraltv/kraltv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDE1IDEyOjU0OjM0IFBNJmhhc2hfdmFsdWU9MnZzMnZvQXp2WnlkQ1RmTUN2YVQxZz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1,Planet Pop
 http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,BEST MUSIC TV
 rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1,PARTY TV
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1,PARTY TV MUSIC
-http://149.11.34.6:1935/live/partytv.stream/playlist.m3u8
-#EXTINF:-1,FRESHTV. TV
-rtmp://www.planeta-online.tv:1936/live/channel_4
-#EXTINF:-1,Gotica Music
-rtmp://149.11.34.6:1935/live/gotica.stream
 #EXTINF:-1,First Music HD
 rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1,Kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,Kiss
 http://csm-e.tm.yospace.com/csm/live/78581270.m3u8
-#EXTINF:-1,MTV
-http://50.7.69.186:1935/edge/_definst_/d2z1vc4ahrl6x26/chunklist.m3u8?wowzasessionid=1420207062
-#EXTINF:-1,MTV b
-http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
-#EXTINF:-1,MTV LIVE
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
 #EXTINF:-1,MTV Dance
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/bw480000/variant.m3u8?version=2
 #EXTINF:-1,MTV Dance b
 http://92.50.181.6/tv/1280/index.m3u8
 #EXTINF:-1,MTV Hits
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_MTVHITS/bw480000/variant.m3u8?version=2
-#EXTINF:-1,TELEHIT
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
-#EXTINF:-1,VH1
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
-#EXTINF:-1,VH1 b
-http://92.50.181.6/tv/1282/index.m3u8
 #EXTINF:-1,VH1 Classic
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/variant.m3u8?version=2
+http://92.50.181.6/tv/1282/index.m3u8
 #EXTINF:-1,VH1 Classic b
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/bw480000/variant.m3u8?version=2
+#EXTINF:-1,VH1 Classic bb
 HTTP://212.79.96.134:8024/
-#EXTINF:-1,MV 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,MV 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,MV 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
