@@ -1,28 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,BBC 1 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/101.ts
-#EXTINF:-1,BBC 2 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/102.ts
-#EXTINF:-1,BBC 3 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/100.ts
-#EXTINF:-1,BBC 4 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/99.ts
-#EXTINF:-1,Boxnation HD
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/240.ts
-#EXTINF:-1,Box Nation
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/15.ts
-#EXTINF:-1,ESPN UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/14.ts
-#EXTINF:-1,ITV 1 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/103.ts
-#EXTINF:-1,ITV 2 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/104.ts
-#EXTINF:-1,ITV 3 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/105.ts
-#EXTINF:-1,ITV 4 UK
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/106.ts
-#EXTINF:-1,Premier Sports
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/9.ts
-#EXTINF:-1,Premier Sports (Backup)
-http://iptv.wssiptv.com:80/live/wssiptv/U2K7oKl3ajrik63j24/149.ts
+#EXTINF:-1 tvg-logo=”http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg” group-title=”MUSIC”,GOTICA TV
+rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?236 live=1
